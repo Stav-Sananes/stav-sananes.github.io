@@ -1,9 +1,3 @@
----
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
----
-
 # Welcome to My Projects
 
 Hi there! I’m **Stav Naftali Sananes**, a passionate **Full Stack Developer** from Israel, currently based in Beer-Sheva. This page showcases a variety of my projects—from C++ systems and games to full-stack web applications with modern frameworks.
@@ -55,3 +49,4 @@ All projects are fully open-source—feel free to browse the code, fork, or subm
 1. **Clone** the repository:
    ```bash
    git clone https://github.com/Stav-Sananes/<repo-name>.git
+
