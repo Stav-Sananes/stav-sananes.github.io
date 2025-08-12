@@ -7,10 +7,9 @@ I combine strong problem-solving skills with modern web technologies to create s
 
 ## 🛠 Tech Stack
 - **Languages:** C++, C#, Python, PHP, JavaScript, TypeScript
-- **Frameworks:** Laravel, Vue.js, React, Angular, .NET Core
-- **Databases:** MySQL, MongoDB
-- **Cloud & DevOps:** Docker, Kubernetes, CI/CD
-- **Other:** REST APIs, OpenSSL, Git, GitHub Actions
+- **Frameworks:** .NET Core,NestJS,Laravel,Angular, Vue.js, React,
+- **Databases:** MySQL,PostgresSQL, MongoDB
+- **Cloud & DevOps:** Azure,IIS,Nginx,Docker, Kubernetes, CI/CD
 
 ---
 
@@ -53,4 +52,5 @@ A complete DBMS for managing student records.
 - **GitHub:** [github.com/Stav-Sananes](https://github.com/Stav-Sananes)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/stav-s-2b32121a7/)
 - **Email:** [stav.s2020@gmail.com](mailto:stav.s2020@gmail.com)
+
 
