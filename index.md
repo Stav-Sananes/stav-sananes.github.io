@@ -37,4 +37,5 @@ This page showcases a variety of my projects — from C++ systems and games to f
 
 ## 📫 Connect with Me
 [GitHub Profile](https://github.com/Stav-Sananes)  
-[LinkedIn](#) <!-- add link -->
+[LinkedIn](https://www.linkedin.com/in/stav-s-2b32121a7/) <!-- add link -->
+
