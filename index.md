@@ -51,5 +51,6 @@ A complete DBMS for managing student records.
 
 ## 📫 Contact
 - **GitHub:** [github.com/Stav-Sananes](https://github.com/Stav-Sananes)
-- **LinkedIn:** [My Linkdin](https://www.linkedin.com/in/stav-s-2b32121a7/)
-- **Email:** [My Email](mailto:stav.s2020@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/stav-s-2b32121a7/)
+- **Email:** [stav.s2020@gmail.com](mailto:stav.s2020@gmail.com)
+
