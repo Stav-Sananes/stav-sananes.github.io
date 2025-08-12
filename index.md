@@ -1,41 +1,55 @@
-# Welcome to My Projects
+# 👋 Hi, I'm Stav Sananes
 
-Hi there! I’m **Stav Naftali Sananes**, a passionate **Full Stack Developer** from Israel.  
-This page showcases a variety of my projects — from C++ systems and games to full-stack web apps.
-
----
-
-## 🚀 Projects Overview
-
-### Personal Website
-- **`stav-sananes.github.io`** — My personal/project showcase site.
-
-### C++ Systems & Tools
-- **RussianRoullete** – A console-based Russian Roulette game in C++.  
-- **RateLimiterApi** – A C# API to control and throttle request rates.  
-- **PayrollSystem** – Payroll computation system in C++.  
-- **InventorySystem** – MySQL-powered inventory management in C++.  
-- **Student-Database-Management-System** – Student record DBMS in C++.  
-- **LoginAndRegistrationSystem** – Secure login in C++ with OpenSSL.  
-- **Scientific-Calculator**, **CasinoNumberGuessingGame**, **RockPaperScissors-CPP** – Fun logic-based C++ projects.
-
-### Web Development & Frameworks
-- Laravel + Vue.js CRUD apps, React movie/store apps,  
-  Angular demos, TypeScript explorations, Node.js utilities.
+Full Stack Developer passionate about **Cloud**, **AI**, and building robust **Backend systems**.  
+I combine strong problem-solving skills with modern web technologies to create scalable, maintainable, and high-performance applications.
 
 ---
 
-## 📌 Why These Projects Matter
-| Focus Area             | Highlights                                         |
-|------------------------|----------------------------------------------------|
-| **Core Development**   | Strong C++ and problem-solving skills               |
-| **Security & API**     | OpenSSL, API rate limiting, database integration    |
-| **Modern Web Stack**   | Laravel, Vue.js, React, Angular, Node.js, TypeScript|
-| **Learning Journey**   | Steady skill growth through diverse projects        |
+## 🛠 Tech Stack
+- **Languages:** C++, C#, Python, PHP, JavaScript, TypeScript
+- **Frameworks:** Laravel, Vue.js, React, Angular, .NET Core
+- **Databases:** MySQL, MongoDB
+- **Cloud & DevOps:** Docker, Kubernetes, CI/CD
+- **Other:** REST APIs, OpenSSL, Git, GitHub Actions
 
 ---
 
-## 📫 Connect with Me
-[GitHub Profile](https://github.com/Stav-Sananes)  
-[LinkedIn](https://www.linkedin.com/in/stav-s-2b32121a7/) <!-- add link -->
+## 🚀 Featured Projects
 
+### 1. **RateLimiterApi**
+🔹 **Tech:** C#, .NET Core  
+A backend API that controls and throttles incoming requests to prevent abuse.  
+[🔗 View on GitHub](https://github.com/Stav-Sananes/RateLimiterApi)
+
+### 2. **InventorySystem**
+🔹 **Tech:** C++, MySQL  
+Inventory management system with full CRUD operations and database integration.  
+[🔗 View on GitHub](https://github.com/Stav-Sananes/InventorySystem)
+
+### 3. **Student Database Management System**
+🔹 **Tech:** C++  
+A complete DBMS for managing student records.  
+[🔗 View on GitHub](https://github.com/Stav-Sananes/Student-Database-Management-System)
+
+---
+
+## 🎮 Fun & Learning Projects
+- **RussianRoullete** – Console-based Russian Roulette game in C++.  
+- **Scientific Calculator** – Advanced calculator supporting multiple operations.  
+- **CasinoNumberGuessingGame** – Random number guessing challenge.  
+- **RockPaperScissors-CPP** – Classic hand game vs. AI.
+
+---
+
+## 🌐 Web Development Projects
+- **reddit-laravel-vuejs** – Social-style web app with Laravel + Vue.js.  
+- **ReactJS Movie App** – Movie search and favorites management.  
+- **Real-Time Chat App** – Laravel-based with WebSocket integration.  
+- **CRM-Laravel** – Customer management platform.
+
+---
+
+## 📫 Contact
+- **GitHub:** [github.com/Stav-Sananes](https://github.com/Stav-Sananes)
+- **LinkedIn:** [My Linkdin](https://www.linkedin.com/in/stav-s-2b32121a7/)
+- **Email:** [My Email](mailto:stav.s2020@gmail.com)
